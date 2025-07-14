@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 import requests
 # eg: https://gplinks.co/XXXX
-url = "https://gplinks.co/Z94r6"
+url = "https://gplinks.co/Wr0LU"
 
 # =======================================
 
